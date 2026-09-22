@@ -2,17 +2,18 @@
 
 ## Variables and Data Types
 
-'''cpp
+```cpp
 int count = 5;
 float price = 0.25;
 double total = count * price;
-'''
+```
 
 ###  Data Type Order
 
-'''text
+```text
 char --> int --> float --> double
-'''
+```
+
 
 ---
 
