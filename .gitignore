@@ -1,0 +1,12 @@
+# C/C++ complied files
+*.o
+*.out
+*.exe
+a.out
+
+# Build folders
+bin/
+build/
+
+# Editor/System junk
+.DS_Store
