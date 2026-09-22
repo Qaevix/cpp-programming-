@@ -3,15 +3,6 @@ using namespace std;
 
 int main(){
 
-/*
-
-int count = 5;
-float price = 0.25;
-double total = count * price;
-char --> int --> float --> double
-
-*/
-
 //...
 int a, b, res;
 float k, m;
