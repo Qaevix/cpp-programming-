@@ -14,7 +14,6 @@ double total = count * price;
 char --> int --> float --> double
 ```
 
-
 ---
 
 ## Language Contents
@@ -28,7 +27,7 @@ char --> int --> float --> double
 
 ### Basic Terms
 
-- ** Alphabet** => Language symbols
+- **Alphabet** => Language symbols
 - **Lexeme** => A minimal meaningful unit of a language
 - **Expression** => Defines value calculation
 - **Operators** => Define action to be performed
