@@ -1,4 +1,4 @@
-# Week 02 - C++ Notes
+# Week 02 - C++ Notes  Atakan
 
 ## Variables and Data Types
 
