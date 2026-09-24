@@ -1,0 +1,45 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+
+	int x = 5;
+	string z = "cpp";
+	auto y = 10;
+
+		cout << x + y << endl;
+		cout << z;
+		cout << "\nHello world! \n2nd week of Programming";
+
+		cout << R"(
+					*********** *********** ************
+					|	      |	|		  |	|		   |
+					|   CPP   | |  Week02 | | 24.09.26 |
+                    |         | |	      | |		   |
+                    *********** *********** ************
+	)";
+	
+		//printf("Hello \n");
+		printf("Hello \n");
+
+		/*
+		int a = 10;
+		int b = 3;
+		*/
+
+		int a = 10, b = 3;
+		float c;
+		c = 3.17;
+
+		float sum = a + c;
+
+		// printf("%i", a);
+		printf("\nVariable a value is %i \n\n", a);
+		printf("Variable a value is %i \n", b);
+		printf("\nVariable a value is %.10f \n\n", c);
+		printf("Sum of a and c is %.2f \n\n", sum);
+		
+		cout << a << " + " << c << " = "<< sum << endl;
+		printf("\n%i + %f = %f \n", a, c, sum);
+		return 0;
+}
