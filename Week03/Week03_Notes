@@ -1,0 +1,18 @@
+
+int a;
+int b;
+int c;
+
+// or
+
+int a, b, c;
+
+float k;
+
+cin >> a;
+cin >> k;
+
+cin >> b >> c;
+
+
+
